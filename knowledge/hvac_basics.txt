@@ -1,0 +1,2 @@
+﻿Heating energy scales with the difference between indoor setpoint and outdoor temperature.
+Small changes (1-2C) can yield meaningful energy savings over extended periods.
