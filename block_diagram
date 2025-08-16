@@ -1,8 +1,0 @@
-[User] --> [Streamlit UI] --> [FastAPI Backend]
-                         |            |
-                         |            +--> [Optimizer (GA + fuzzy + rules)] -> schedule/cost
-                         |            |
-                         |            +--> [RAG Retriever] -> [KB (.txt)] & [Vector Index]
-                         |                                \-> [Fine-tuned LLM] -> explanation
-                         v
-             Displays: schedule (24h), estimated cost, comfort score, LLM explanation
