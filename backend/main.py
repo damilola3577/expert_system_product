@@ -1,4 +1,5 @@
-﻿from fastapi import FastAPI, Form
+﻿# backend/main.py
+from fastapi import FastAPI, Form
 from pydantic import BaseModel
 import numpy as np
 from optimizer import run_ga
