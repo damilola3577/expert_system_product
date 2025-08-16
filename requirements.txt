@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn[standard]
+streamlit
+numpy
+pandas
+scikit-learn
+sentence-transformers
+requests
+python-multipart
